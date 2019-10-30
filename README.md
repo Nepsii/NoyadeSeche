@@ -31,7 +31,7 @@ donné par ITESCIA
 
 # Utilisation
 
-telecharger le repo pour utiliser les exo sur pycharme 
+telecharger le repo pour utiliser les exo sur pycharm 
 
 Pour lancer sur terminal , effectuer un git clone https://github.com/PinaultRaphael/NoyadeSeche.git
 et executer la commande : python3 exo_16.py

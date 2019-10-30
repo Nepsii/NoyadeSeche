@@ -5,7 +5,7 @@ def palindrome (mot):                          # fonction palindrome
     if mot==new:                               # comparer les deux mots
         print("c'est un palindrome", new ,mot) # si égale
     else:
-        print("Pas un palindrome",mot,new)     # sinon
+        print("Pas un palindrome",mot,new)     #sinon
 
 
 test=input("entrer votre mot ")                # demande un mot

@@ -8,5 +8,5 @@ def palindrome (mot):                          # fonction palindrome
         print("Pas un palindrome",mot,new)     # sinon
 
 
-test=input("entrer votre mot")                 # demande un mot
+test=input("entrer votre mot ")                # demande un mot
 palindrome(test)                               # utilisation de la fonction
